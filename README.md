@@ -1,18 +1,8 @@
-A todolist app to keep track of all your tasks.
+A to-do list app to keep track of all your tasks.
 
-# todoey_flutter
+* Add tasks to a list
+* Check tasks off the list
+* Delete tasks off the list
 
-A new Flutter project.
+https://user-images.githubusercontent.com/66216248/157178420-a45ddb7f-2070-4c1b-8e6a-5863ca2e9b93.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
