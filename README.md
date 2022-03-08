@@ -1,3 +1,5 @@
+A todolist app to keep track of all your tasks.
+
 # todoey_flutter
 
 A new Flutter project.
